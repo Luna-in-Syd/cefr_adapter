@@ -1,0 +1,4 @@
+spacy>=3.0
+gensim>=4.0
+pyinflect>=0.5
+pandas>=1.3
